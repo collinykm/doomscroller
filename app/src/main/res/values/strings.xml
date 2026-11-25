@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doomscroller</string>
+    <string name="service_label">Doomscroller reel counter</string>
+    <string name="service_description">Watches Instagram Reels so it can count how many you scroll through, show the floating counter bubble, and build your stats. Data never leaves the phone.</string>
+</resources>
